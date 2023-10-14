@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to left, skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-position: center;
+    background-size: cover;
+}
+
+form{
+    background: linear-gradient(to left, skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    border-style: double;
+    clear: left;
+}
+
+table{
+    clear: left;
+}
+img{
+    float: left;
+}
